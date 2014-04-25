@@ -1,0 +1,24 @@
+Adobe JavaScript for InDesign
+
+This is an assortment of external scripts I developed/collected over the last couple of years as I cranked out thousands of pages of math textbooks using Adobe InDesign/InCopy. I never found a single repository with everything I needed to get the job done, so I hope these can help other designers/developers at some point. 
+
+From the Adobe Javascript Tools Guide:
+--------------------
+Adobe provides an extended implementation of JavaScript, called ExtendScript, that is used by many 
+Adobe applications that provide a scripting interface. In addition to implementing the JavaScript 
+language according to the ECMA JavaScript specification, ExtendScript provides certain additional 
+features and utilities.
+--------------------
+
+Files in this repository are therefore all .jsx, and are intended to be used only as "external scripts" using Adobe InDesign software.
+
+One could run most of these as regular .js, but there would need to be some work to update objects and variables, as they are very specific to InDesign's feature set. 
+
+You can search for "Using external scripts InDesign" for the latest information on the script installation process.
+
+
+
+
+InDesign and InCopy are part of the Adobe Creative Suite of products. http://www.adobe.com
+
+MathType is a Design Science product used to display LaTeX and MathML documents.  http://www.dessci.com
